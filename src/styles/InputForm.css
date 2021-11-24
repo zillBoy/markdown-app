@@ -1,0 +1,10 @@
+.inputMainContainer {
+    display: block;
+    width: 50%;
+    background-color: #ddd;
+}
+
+.textArea {
+    width: 98%;
+    height: 80vh;
+}
