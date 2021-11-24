@@ -14,6 +14,7 @@ body {
 
 .inputHeadingContainer > h3 {
     text-transform: capitalize;
+    padding-left: 2%;
 }
 
 .clearButton {
@@ -31,4 +32,9 @@ body {
     color: #000;
     background-color: #fff;
     transition: 0.2s ease;
+}
+
+/* Responsiveness */
+.mobileMainContainer {
+    display: block;
 }

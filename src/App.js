@@ -5,7 +5,7 @@ import InputForm from './components/InputForm'
 import Result from './components/Result'
 
 const App = () => {
-    
+ 
   return (
     <>
       <Header />
